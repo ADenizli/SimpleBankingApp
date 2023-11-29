@@ -91,6 +91,8 @@ class Bank {
         std::cout << "3 - See your status" << std::endl;
         std::cin >> selectedAction;
 
+        // CONTINUE 
+
         switch (selectedAction)
         {
         case 1:
