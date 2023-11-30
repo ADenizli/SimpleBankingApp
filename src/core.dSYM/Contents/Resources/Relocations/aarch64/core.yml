@@ -1,0 +1,35 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ahmetsaitdenizli/Desktop/Developer/C++/SimpleBankingApp/src/core'
+relocations:
+  - { offsetInCU: 0xEE, offset: 0xEE, size: 0x8, addend: 0x0, symName: __ZN4Bank8transferEd10ActionType, symObjAddr: 0x0, symBinAddr: 0x10000335C, symSize: 0x90 }
+  - { offsetInCU: 0x3206, offset: 0x3206, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0xFDB8, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x370A, offset: 0x370A, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIjEE, symObjAddr: 0x965, symBinAddr: 0x100003D8D, symSize: 0x0 }
+  - { offsetInCU: 0x3724, offset: 0x3724, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedImEE, symObjAddr: 0x966, symBinAddr: 0x100003D8E, symSize: 0x0 }
+  - { offsetInCU: 0x373E, offset: 0x373E, size: 0x8, addend: 0x0, symName: __ZNSt8__detail30__integer_to_chars_is_unsignedIyEE, symObjAddr: 0x967, symBinAddr: 0x100003D8F, symSize: 0x0 }
+  - { offsetInCU: 0x3764, offset: 0x3764, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_core.cpp, symObjAddr: 0x6C8, symBinAddr: 0x100003A24, symSize: 0x14 }
+  - { offsetInCU: 0x3790, offset: 0x3790, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x68C, symBinAddr: 0x1000039E8, symSize: 0x3C }
+  - { offsetInCU: 0x3798, offset: 0x3798, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_core.cpp, symObjAddr: 0x6C8, symBinAddr: 0x100003A24, symSize: 0x14 }
+  - { offsetInCU: 0x378C, offset: 0x378C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x668, symBinAddr: 0x1000039C4, symSize: 0x24 }
+  - { offsetInCU: 0x3794, offset: 0x3794, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x68C, symBinAddr: 0x1000039E8, symSize: 0x3C }
+  - { offsetInCU: 0x37E5, offset: 0x37E5, size: 0x8, addend: 0x0, symName: __ZN4BankC1Ev, symObjAddr: 0x630, symBinAddr: 0x10000398C, symSize: 0x38 }
+  - { offsetInCU: 0x37ED, offset: 0x37ED, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x668, symBinAddr: 0x1000039C4, symSize: 0x24 }
+  - { offsetInCU: 0x3806, offset: 0x3806, size: 0x8, addend: 0x0, symName: __ZN4Bank16withdrawMoneyCLIEv, symObjAddr: 0x538, symBinAddr: 0x100003894, symSize: 0xF8 }
+  - { offsetInCU: 0x380E, offset: 0x380E, size: 0x8, addend: 0x0, symName: __ZN4BankC1Ev, symObjAddr: 0x630, symBinAddr: 0x10000398C, symSize: 0x38 }
+  - { offsetInCU: 0x385B, offset: 0x385B, size: 0x8, addend: 0x0, symName: __ZN4Bank14checkStatusCLIEv, symObjAddr: 0x4EC, symBinAddr: 0x100003848, symSize: 0x4C }
+  - { offsetInCU: 0x3863, offset: 0x3863, size: 0x8, addend: 0x0, symName: __ZN4Bank16withdrawMoneyCLIEv, symObjAddr: 0x538, symBinAddr: 0x100003894, symSize: 0xF8 }
+  - { offsetInCU: 0x388A, offset: 0x388A, size: 0x8, addend: 0x0, symName: __ZN4Bank15depositMoneyCLIEv, symObjAddr: 0x3F4, symBinAddr: 0x100003750, symSize: 0xF8 }
+  - { offsetInCU: 0x3892, offset: 0x3892, size: 0x8, addend: 0x0, symName: __ZN4Bank14checkStatusCLIEv, symObjAddr: 0x4EC, symBinAddr: 0x100003848, symSize: 0x4C }
+  - { offsetInCU: 0x38DF, offset: 0x38DF, size: 0x8, addend: 0x0, symName: __ZN4Bank10actionsCLIEv, symObjAddr: 0x2D0, symBinAddr: 0x10000362C, symSize: 0x124 }
+  - { offsetInCU: 0x38E7, offset: 0x38E7, size: 0x8, addend: 0x0, symName: __ZN4Bank15depositMoneyCLIEv, symObjAddr: 0x3F4, symBinAddr: 0x100003750, symSize: 0xF8 }
+  - { offsetInCU: 0x3921, offset: 0x3921, size: 0x8, addend: 0x0, symName: __ZN4Bank8loginCLIEv, symObjAddr: 0x1E4, symBinAddr: 0x100003540, symSize: 0xEC }
+  - { offsetInCU: 0x3929, offset: 0x3929, size: 0x8, addend: 0x0, symName: __ZN4Bank10actionsCLIEv, symObjAddr: 0x2D0, symBinAddr: 0x10000362C, symSize: 0x124 }
+  - { offsetInCU: 0x3989, offset: 0x3989, size: 0x8, addend: 0x0, symName: __ZN4Bank7landingEv, symObjAddr: 0xFC, symBinAddr: 0x100003458, symSize: 0xE8 }
+  - { offsetInCU: 0x3991, offset: 0x3991, size: 0x8, addend: 0x0, symName: __ZN4Bank8loginCLIEv, symObjAddr: 0x1E4, symBinAddr: 0x100003540, symSize: 0xEC }
+  - { offsetInCU: 0x39CB, offset: 0x39CB, size: 0x8, addend: 0x0, symName: __ZN4Bank13authorizationE4User, symObjAddr: 0xA8, symBinAddr: 0x100003404, symSize: 0x54 }
+  - { offsetInCU: 0x39D3, offset: 0x39D3, size: 0x8, addend: 0x0, symName: __ZN4Bank7landingEv, symObjAddr: 0xFC, symBinAddr: 0x100003458, symSize: 0xE8 }
+  - { offsetInCU: 0x3A0D, offset: 0x3A0D, size: 0x8, addend: 0x0, symName: __ZN4Bank24getTotalMoneyInformationEv, symObjAddr: 0x90, symBinAddr: 0x1000033EC, symSize: 0x18 }
+  - { offsetInCU: 0x3A15, offset: 0x3A15, size: 0x8, addend: 0x0, symName: __ZN4Bank13authorizationE4User, symObjAddr: 0xA8, symBinAddr: 0x100003404, symSize: 0x54 }
+  - { offsetInCU: 0x3A3C, offset: 0x3A3C, size: 0x8, addend: 0x0, symName: __ZN4Bank8transferEd10ActionType, symObjAddr: 0x0, symBinAddr: 0x10000335C, symSize: 0x90 }
+  - { offsetInCU: 0x3A44, offset: 0x3A44, size: 0x8, addend: 0x0, symName: __ZN4Bank24getTotalMoneyInformationEv, symObjAddr: 0x90, symBinAddr: 0x1000033EC, symSize: 0x18 }
+...
